@@ -16,6 +16,9 @@ App Lista de tarefas (To-Do List) em flutter para aplicação de conhecimentos c
 -TextFormField Validator<br/>
 -Custom Fonts/Images<br/>
 -CreateDialog/AlertDialog<br/>
+-Path provider<br/>
+-flutter localizations<br/>
+-Intl<br/>
 <br/>
 ## Getting Started
 
