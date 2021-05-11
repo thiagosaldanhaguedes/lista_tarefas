@@ -21,7 +21,7 @@ App Lista de tarefas (To-Do List) em flutter para aplicação de conhecimentos c
 -Intl<br/>
 <br/>
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/lista1.png?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/lista2.png?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/lista3.png?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/lista4.png?raw=true)
+![alt text](https://github.com/thiagosaldanhaguedes/lista_tarefas/blob/master/lista1.png?raw=true)
+![alt text](https://github.com/thiagosaldanhaguedes/lista_tarefas/blob/master/lista2.png?raw=true)
+![alt text](https://github.com/thiagosaldanhaguedes/lista_tarefas/blob/master/lista3.png?raw=true)
+![alt text](https://github.com/thiagosaldanhaguedes/lista_tarefas/blob/master/lista4.png?raw=true)
